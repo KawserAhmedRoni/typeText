@@ -1,0 +1,97 @@
+// Section header area start here ***
+// .section-header {
+// 	h5 {
+// 		color: var(--primary-color);
+// 		padding-bottom: 5px;
+// 		text-transform: uppercase;
+// 		border-bottom: 1px solid var(--primary-color);
+// 		display: inline-block;
+// 		margin-bottom: 20px;
+// 	}
+// 	h2 {
+// 		text-transform: capitalize;
+// 	}
+// 	p {
+// 		margin-top: 20px;
+// 	}
+// }
+// Section header area end here ***
+
+// Accordion area start here ***
+// .accordion {
+// 	.accordion-item {
+// 		border: var(--border-1px);
+// 		border-radius: 10px;
+// 		margin-bottom: 30px;
+// 		h2 {
+// 			button {
+// 				font-size: 15px;
+// 				line-height: 28px;
+// 				font-weight: 700;
+// 				box-shadow: none;
+// 				border-radius: 0 !important;
+// 				padding: 20px 30px;
+// 			}
+// 		}
+// 		.accordion-body {
+// 			padding: 20px 30px;
+// 			padding-top: 0;
+// 		}
+// 	}
+// 	.accordion-button {
+// 		background-color: transparent;
+// 		color: var(--heading-color);
+// 		&::after {
+// 			display: none;
+// 		}
+// 		&::before {
+// 			position: absolute;
+// 			content: "\f068";
+// 			font-family: "Font Awesome 6 Pro";
+// 			font-weight: 700;
+// 			top: 20px;
+// 			right: 25px;
+// 			font-size: 15px;
+// 			width: 30px;
+// 			height: 30px;
+// 			line-height: 30px;
+// 			border-radius: 10px;
+// 			color: var(--white);
+// 			background-color: var(--primary-color);
+// 			text-align: center;
+// 			transition: var(--transition);
+// 		}
+// 	}
+// 	.accordion-button.collapsed {
+// 		background-color: transparent;
+// 		color: var(--heading-color);
+// 		&::before {
+// 			content: "\2b";
+// 			background-color: var(--sub-bg);
+// 			color: var(--primary-color);
+// 		}
+// 	}
+// }
+// Accordion area end here ***
+
+// Paralax area start here ***
+.bg-one-image {
+	height: 100vh;
+}
+.bg-two-image {
+	height: 700px;
+}
+.bg-three-image {
+	height: 700px;
+}
+.bg-four-image {
+	height: 700px;
+}
+.bg-five-image {
+	height: 700px;
+}
+// Paralax area end here ***
+
+// Image comparison area start here ***
+
+// Image comparison area end here ***
